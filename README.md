@@ -1,4 +1,4 @@
-<img src="https://github.com/DevM4ster/devm4ster/issues/1#issue-2254340692)"/>
+![svg](https://github.com/DevM4ster/devm4ster/assets/166443209/0000ecc9-0aba-4692-ae00-214aabdc55cd)
 <a href="https://www.linkedin.com/in/zamranxd/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
